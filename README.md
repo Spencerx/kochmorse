@@ -1,9 +1,10 @@
 # KochMorse -- A morse-code tutor
 KochMorse is a simple morse-code tutor using the
 [Koch method](http://www.qsl.net/n1irz/finley.morse.html). It is written in C++ and uses
-[Qt5](https://qt-project.org) for the graphical user interface (GUI). [More ...](https://github.com/hmatuschek/kochmorse/wiki#how-to-use-kochmorse)
+[Qt6](https://qt-project.org) for the graphical user interface (GUI). [More ...](https://github.com/hmatuschek/kochmorse/wiki#how-to-use-kochmorse)
 
-<img src="https://raw.githubusercontent.com/hmatuschek/kochmorse/master/doc/Koch_example.png" alt="Koch Morse in action." align="middle"/>
+<img src="https://raw.githubusercontent.com/hmatuschek/kochmorse/master/doc/Koch_example.png" 
+     alt="Koch Morse in action." align="middle"/>
 
 KochMorse runs under Linux, MacOS X and even under Windows. See the
 [Install](https://github.com/hmatuschek/kochmorse/wiki/Install) wiki page for details.
@@ -37,7 +38,9 @@ Below, you will find a list of features of the current KochMorse release.
  <a href="https://repology.org/project/kochmorse/versions">
   <img src="https://repology.org/badge/vertical-allrepos/kochmorse.svg" alt="Packaging status" align="right">
  </a>
- 
+
+ * 2026-06-?? - [**Version 3.6.0**](https://github.com/hmatuschek/kochmorse/releases/tag/v3.6.0) - Moved to QT6.
+ * 2021-03-15 - [**Version 3.5.1**](https://github.com/hmatuschek/kochmorse/releases/tag/v3.5.1)
  * 2020-01-10 - [**Version 3.5.0**](https://github.com/hmatuschek/kochmorse/releases/tag/v3.5.0)
  * 2018-09-25 - [**Version 3.4.0**](https://github.com/hmatuschek/kochmorse/releases/tag/v3.4.0)
  * 2018-06-12 - [**Version 3.3.0**](https://github.com/hmatuschek/kochmorse/releases/tag/v3.3.0)
